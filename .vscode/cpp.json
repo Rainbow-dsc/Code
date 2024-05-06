@@ -1,0 +1,19 @@
+{
+	"HEAD FILE":{
+		"prefix": "HEAD FILE",
+		"body":[
+			"#include<bits/stdc++.h>",
+			"#define int long long",
+			"#define maxn 100005",
+			"#define mod (int)(1e9+7)",
+			"#define lc rt<<1",
+			"#define rc rt<<1|1",
+			"using namespace std;",
+			"signed main(){",
+			"    ",
+			"    return 0;",
+			"}"
+		],
+		"description": "头文件"
+	}
+}
