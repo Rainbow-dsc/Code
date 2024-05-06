@@ -1,0 +1,1 @@
+{"name":"Local: F - LCS","url":"d:\\Users\\Administrator\\Desktop\\Rainbow\\OI\\second\\Code\\ATcoder\\F - LCS.cpp","tests":[{"id":1714523161226,"input":"axyb\nabyxb\n","output":"axb\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Users\\Administrator\\Desktop\\Rainbow\\OI\\second\\Code\\ATcoder\\F - LCS.cpp","group":"local","local":true}
